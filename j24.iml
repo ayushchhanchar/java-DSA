@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/functions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arrayLinearSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binaySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CyclicSortQues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuesCyclicSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArraysLeetcode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recurrsionLvl1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recurrsionArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mergeSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quickSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEETCODEsorting " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeQues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeSorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/binay" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
