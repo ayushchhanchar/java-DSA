@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCodeQues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCodeSorting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/binay" />
     </content>
     <orderEntry type="inheritedJdk" />
